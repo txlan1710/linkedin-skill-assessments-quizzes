@@ -321,7 +321,7 @@
 > Ce sont des hypothèses de simplification, largement linéarisantes, qui sont souvent implicitement supposées dans les discussions élémentaires sur les coûts et les bénéfices.
 
 #### Q40. Quelle affirmation concernant un système d'inventaire perpétuel est vraie ?
-
+SEE
 - [ ] Le coût des biens vendus FIFO sera le même que dans un système d'inventaire périodique.
 - [ ] Les coûts moyens sont entièrement basés sur des moyennes simples de coûts unitaires.
 - [ ] Le coût des biens vendus LIFO sera le même que dans un système d'inventaire périodique.
